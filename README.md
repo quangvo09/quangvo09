@@ -11,7 +11,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangvo09" alt="quangvo09" /></p>
 
-<a href="https://app.daily.dev/quangvo09"><img src="https://api.daily.dev/devcards/1583ba8fc8d74c359667e1fc0158f524.png?r=38u" width="400" alt="Quang's Dev Card"/></a>
+<a href="https://app.daily.dev/quangvo09"><img src="https://github.com/quangvo09/quangvo09/blob/main/devcard.svg" width="400" alt="Quang's Dev Card"/></a>
 <!--
 **quangvo09/quangvo09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
