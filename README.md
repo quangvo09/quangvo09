@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quangvo09" alt="quangvo09" /></a> </p>
 
-
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quangvo09&show_icons=true&locale=en&layout=compact" alt="quangvo09" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quangvo09&show_icons=true&locale=en" alt="quangvo09" /></p>
@@ -16,6 +15,8 @@
 ### Certificates
 
 ![UC-decf9fd3-24c0-4e56-865c-047f1e94c21e](https://user-images.githubusercontent.com/6206464/159171299-5b46d5ba-9eff-4403-b38f-1f21d0e9ae7f.jpeg)
+
+![](https://komarev.com/ghpvc/?username=quangvo09&color=green)
 
 <!--
 **quangvo09/quangvo09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
