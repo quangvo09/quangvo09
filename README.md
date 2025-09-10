@@ -12,11 +12,12 @@
 
 <a href="https://app.daily.dev/quangvo09"><img src="https://github.com/quangvo09/quangvo09/blob/main/devcard.svg" width="400" alt="Quang's Dev Card"/></a>
 
+<!--
 ### Certificates
 
 ![UC-decf9fd3-24c0-4e56-865c-047f1e94c21e](https://user-images.githubusercontent.com/6206464/159171299-5b46d5ba-9eff-4403-b38f-1f21d0e9ae7f.jpeg)
-
 ![](https://komarev.com/ghpvc/?username=quangvo09&color=green)
+-->
 
 <!--
 **quangvo09/quangvo09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
