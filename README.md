@@ -8,7 +8,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quangvo09&show_icons=true&locale=en" alt="quangvo09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangvo09" alt="quangvo09" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangvo09" alt="quangvo09" /></p> -->
+
+<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)</p>
 
 <a href="https://app.daily.dev/quangvo09"><img src="https://github.com/quangvo09/quangvo09/blob/main/devcard.svg" width="400" alt="Quang's Dev Card"/></a>
 
