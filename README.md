@@ -5,13 +5,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quangvo09" alt="quangvo09" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quangvo09&show_icons=true&locale=en&layout=compact" alt="quangvo09" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangvo09" alt="quangvo09" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangvo09" alt="quangvo09" /></p>
 
 
 <a href="https://app.daily.dev/quangvo09"><img src="https://github.com/quangvo09/quangvo09/blob/main/devcard.svg" width="400" alt="Quang's Dev Card"/></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=quangvo09)](https://git.io/streak-stats)
-
+<p>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=quangvo09" alt="GitHub Streak" /></a>
+</p>
 <!--
 ### Certificates
 
