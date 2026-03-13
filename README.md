@@ -10,7 +10,7 @@
  <img src="https://streak-stats.demolab.com?user=quangvo09" alt="GitHub Streak" />
 </p>
 
-<a href="https://app.daily.dev/quangvo09"><img src="https://github.com/quangvo09/quangvo09/blob/main/devcard.svg" width="400" alt="Quang's Dev Card"/></a>
+<a href="https://app.daily.dev/quangvo09"><img src="https://api.daily.dev/devcards/v2/2f8edc3bcb154523bc4daa394b645714.png?r=pfr" width="356" alt="Quang's Dev Card"/></a>
 
 <!--
 ### Certificates
