@@ -7,7 +7,10 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangvo09" alt="quangvo09" /></p> -->
 
 <p>
- <img src="https://streak-stats.demolab.com?user=quangvo09" alt="GitHub Streak" />
+ <!-- <img src="https://streak-stats.demolab.com?user=quangvo09" alt="GitHub Streak" /> -->
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=quangvo09)](https://github.com/quangvo09)
+
 </p>
 
 <a href="https://app.daily.dev/quangvo09"><img src="https://api.daily.dev/devcards/v2/2f8edc3bcb154523bc4daa394b645714.png?r=pfr" width="356" alt="Quang's Dev Card"/></a>
